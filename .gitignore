@@ -1,0 +1,8 @@
+
+# Ignore provided file and third party file.
+libs/
+*.js
+lunalite-pixi-mz.d.ts
+
+# Don't ignore output
+!ContextEvent.js
